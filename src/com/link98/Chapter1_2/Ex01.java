@@ -1,5 +1,8 @@
 package com.link98.Chapter1_2;
 
+
+import java.util.*;
+
 public class Ex01 {
     public static void main(String[] args) {
 
@@ -9,4 +12,5 @@ public class Ex01 {
         if (a==b) System.out.println(-1);
         else System.out.println(n>m ? n : m);
     }
+
 }
